@@ -1,0 +1,114 @@
+body {
+    background: #0f172a;
+    color: #e5e7eb;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar-brand {
+    color: #9eff6a;
+    font-weight: bold;
+}
+/* NAVBAR FIX */
+.navbar {
+    background: #020617 !important;
+}
+
+.nav-link {
+    color: #e5e7eb !important;
+}
+
+.nav-link:hover {
+    color: #9eff6a !important;
+}
+
+.navbar-brand {
+    color: #9eff6a !important;
+}
+
+.navbar-toggler {
+    border-color: #9eff6a;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+
+.btn-main {
+    background: #9eff6a;
+    color: #000;
+    border-radius: 25px;
+    padding: 8px 20px;
+}
+
+.btn-outline {
+    border: 1px solid #9eff6a;
+    color: #9eff6a;
+    border-radius: 25px;
+}
+
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.hero h1 {
+    font-size: 70px;
+}
+
+.section {
+    padding: 80px 0;
+}
+
+.section.alt {
+    background: rgba(255,255,255,0.03);
+}
+
+.section-title {
+    color: #9eff6a;
+    margin-bottom: 40px;
+}
+
+.progress {
+    height: 8px;
+    background: #1e293b;
+}
+
+.progress-bar {
+    background: #9eff6a;
+}
+
+.edu-table th {
+    background: #020617;
+    color: #9eff6a;
+}
+
+.edu-table td {
+    background: #0f172a;
+    color:#e5e7eb
+}
+
+.project-card {
+    background: #020617;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.project-card a i {
+    margin-left: 6px;
+    font-size: 13px;
+}
+
+/* Resume */
+.resume {
+    background: #020617;
+}
+
+.resume-box {
+    background: #fff;
+    color: #000;
+    padding: 40px;
+    margin: 60px auto;
+    max-width: 800px;
+}
