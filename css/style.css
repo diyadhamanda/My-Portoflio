@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-brand {
-  color: #22d3ee !important;
+  color: #44ee06 !important;
   font-weight: 700;
 }
 
@@ -26,18 +26,18 @@ body {
 }
 
 .nav-link:hover {
-  color: #22d3ee !important;
+  color: #44ee06 !important;
 }
 
 .navbar-toggler {
-  border-color: #22d3ee;
+  border-color: #44ee06;
 }
 
 .navbar-toggler-icon {
   filter: invert(1);
 }
 .btn-main {
-  background: #22d3ee;
+  background: #44ee06;
   color: #020617;
   padding: 8px 22px;
   border-radius: 30px;
@@ -49,13 +49,13 @@ body {
 }
 
 .btn-outline {
-  border: 1px solid #22d3ee;
-  color: #22d3ee;
+  border: 1px solid #44ee06;
+  color: #44ee06;
   border-radius: 30px;
 }
 
 .btn-outline:hover {
-  background: #22d3ee;
+  background: #44ee06;
   color: #020617;
 }
 .hero {
@@ -89,7 +89,7 @@ body {
   text-align: center;
   font-size: 32px;
   margin-bottom: 40px;
-  color: #22d3ee;
+  color: #44ee06;
 }
 
 @media (max-width: 768px) {
@@ -104,7 +104,7 @@ body {
 }
 
 .progress-bar {
-  background: linear-gradient(90deg, #22d3ee, #38bdf8);
+  background: linear-gradient(90deg, #44ee06, #38bdf8);
 }
 .education-section {
   padding: 70px 20px;
@@ -128,7 +128,7 @@ body {
 
 .edu-table th {
   padding: 16px;
-  color: #22d3ee;
+  color: #44ee06;
   background: #020617;
   border-bottom: 1px solid #1e293b;
   text-align: center;
@@ -200,7 +200,7 @@ body {
 }
 
 .project-content a {
-  color: #22d3ee;
+  color: #0bf823;
   font-weight: 600;
   text-decoration: none;
 }
@@ -233,7 +233,7 @@ body {
 }
 
 .footer a:hover {
-  color: #22d3ee;
+  color: #088f37cf;
 }
 
 .footer-bottom {
